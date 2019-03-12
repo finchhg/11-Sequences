@@ -311,7 +311,7 @@ def draw_circles(window, points, radius, color):
         circle.attach_to(window)
         circle.fill_color = color
         window.render()
-        
+
     """
     What comes in:
       -- An rg.RoseWindow
